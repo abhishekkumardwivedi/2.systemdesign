@@ -10,6 +10,12 @@
 * Design charging subsystem
 * Design autonomy system
 * Design power management for electric vehicle
+* Design an IPC mechanism for sharing sensor or CAN data
+* Design the HAL for a new vehicle sensor system in Android Automotive
+* How would you design a system where a voice assistant interacts with both Android and vehicle functions?
+* Design a media framework that supports switching between Bluetooth, USB, FM radio, and online streaming
+* Design a system where if the center console Android crashes, the cluster display still works independently
+* How do you design an Android-based cockpit system that complies with functional safety standards
     
 #### System Design stages
 * Understanding the problem
