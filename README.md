@@ -1,4 +1,15 @@
 ## System Design
+
+### Questions
+* Design software update (OTA+SWDL) system design for Android automotive
+* Design audio subsysem for multizone for automotive
+* Design multidisplay(IVI, Cluster, Passengar display) system for automtive
+* Design diagnostics subsystem for automotive
+* Design logging subsystem for automotive [LLD]
+* Design electric vehicle
+* Design charging subsystem
+* Design autonomy system
+* Design power management for electric vehicle
     
 #### System Design stages
 * Understanding the problem
